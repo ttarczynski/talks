@@ -1,6 +1,7 @@
 # What is Cloud Native and why should I care
 
 Slides: [What is Cloud Native and why should I care](https://www.slideshare.net/TomaszTarczyski1/what-is-cloud-native-and-why-should-i-care-123684622)
+
 Presented at:
 * [DevOpsDays Warsaw](https://devopsdays.pl/lecture.html#id=48755)
 * [Cloud Native & Kubernetes Warsaw](https://www.meetup.com/Cloud-Native-Kubernetes-Warsaw/events/256906417/)
