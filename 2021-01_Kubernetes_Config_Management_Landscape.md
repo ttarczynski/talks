@@ -1,6 +1,6 @@
 # Kubernetes Config Management Landscape
 
-Slides: (to be linked here)
+Slides: [Kubernetes Config Management Landscape](https://www.slideshare.net/TomaszTarczyski1/kubernetes-config-management-landscape)
 
 Presented at:
 * [FOSDEM 2021](https://fosdem.org/2021/schedule/event/kubernetes_config_management_landscape/)
